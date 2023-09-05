@@ -78,7 +78,7 @@ SELECT * from users; # Test
 
 - [ ] Registry and K8S manifests support
 
-- [ ] Makefile
+- [x] Makefile
 
 - [ ] Vault support
 
