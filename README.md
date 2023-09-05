@@ -72,7 +72,9 @@ SELECT * from users; # Test
 
 - [ ] Authentication
 
-- [ ] Containerization and Helm support
+- [x] Containerization 
+
+- [ ] Helm support
 
 - [ ] Registry and K8S manifests support
 
